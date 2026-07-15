@@ -1,4 +1,18 @@
-D 'DEA': Data envelopment analysis
+D 'attregtest': Implement the regression-based attrition tests proposed in Ghanem et al. (2024) Use attregtest With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _eststo.ado
+F _eststo.hlp
+F attregtest.ado
+F attregtest.sthlp
+F estadd.ado
+F estadd.hlp
+F estout.ado
+F estout.hlp
+F estpost.ado
+F estpost.hlp
+F eststo.ado
+F eststo.hlp
+F esttab.ado
+F esttab.hlp
+F randtreat.ado
+F randtreat.sthlp
