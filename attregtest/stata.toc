@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p attregtest Implement the regression-based attrition tests proposed in Ghanem et al. (2024) Use attregtest With STATA 19
